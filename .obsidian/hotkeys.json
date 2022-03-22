@@ -5,7 +5,29 @@
         "Mod",
         "Shift"
       ],
+<<<<<<< HEAD
       "key": "P"
+=======
+      "key": "3"
+    }
+  ],
+  "obsidian-git:list-changed-files": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "obsidian-git:open-diff-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "2"
+>>>>>>> origin/main
     }
   ]
 }
