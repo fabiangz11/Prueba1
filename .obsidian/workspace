@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "24e2fea9b4d438ce",
+        "id": "ddf630e7b2e4561a",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -76,7 +76,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -86,9 +86,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "24e2fea9b4d438ce",
+  "active": "ddf630e7b2e4561a",
   "lastOpenFiles": [
     "Prueba de archivo.md",
+    "conflict-files-obsidian-git.md",
     "README.md"
   ]
 }
