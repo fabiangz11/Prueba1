@@ -10,6 +10,18 @@
           "type": "graph",
           "state": {}
         }
+      },
+      {
+        "id": "f19422a2d79d8b0c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "conflict-files-obsidian-git.md",
+            "mode": "source",
+            "source": false
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -65,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,10 +94,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "24e2fea9b4d438ce",
+  "active": "f19422a2d79d8b0c",
   "lastOpenFiles": [
-    "Prueba de archivo.md",
     "conflict-files-obsidian-git.md",
+    "Prueba de archivo.md",
     "README.md"
   ]
 }
