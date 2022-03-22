@@ -4,7 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ddf630e7b2e4561a",
+        "id": "24e2fea9b4d438ce",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "f19422a2d79d8b0c",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -76,7 +84,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -86,7 +94,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ddf630e7b2e4561a",
+  "active": "f19422a2d79d8b0c",
   "lastOpenFiles": [
     "Prueba de archivo.md",
     "conflict-files-obsidian-git.md",
