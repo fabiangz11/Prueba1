@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Prueba de archivo.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Prueba de archivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "ddf630e7b2e4561a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Prueba de archivo.md",
+    "conflict-files-obsidian-git.md",
     "README.md"
   ]
 }
