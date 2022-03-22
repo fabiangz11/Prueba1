@@ -17,4 +17,6 @@ asd asd apdsa
  sd ansdasd
  a sdas d
  asd asd
+ $X^2$
+ 
  
