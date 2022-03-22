@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Prueba de archivo.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -76,7 +76,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
