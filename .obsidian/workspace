@@ -7,14 +7,6 @@
         "id": "24e2fea9b4d438ce",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "f19422a2d79d8b0c",
-        "type": "leaf",
-        "state": {
           "type": "markdown",
           "state": {
             "file": "Prueba de archivo.md",
@@ -94,10 +86,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f19422a2d79d8b0c",
+  "active": "24e2fea9b4d438ce",
   "lastOpenFiles": [
     "Prueba de archivo.md",
-    "conflict-files-obsidian-git.md",
-    "README.md"
+    "README.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
