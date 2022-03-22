@@ -7,11 +7,21 @@
         "id": "24e2fea9b4d438ce",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
             "file": "Prueba de archivo.md",
-            "mode": "source",
-            "source": false
+            "staged": false
+          }
+        }
+      },
+      {
+        "id": "6bbd73dad69e3e54",
+        "type": "leaf",
+        "state": {
+          "type": "diff-view",
+          "state": {
+            "staged": false,
+            "file": "Prueba de archivo.md"
           }
         }
       }
@@ -69,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prueba de archivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,8 +88,17 @@
                 "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "8b5063610bc676cd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
